@@ -1,2 +1,0 @@
-Agregar diseño a la pagina web 
-Agregar  bootstrap 
